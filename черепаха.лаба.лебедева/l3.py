@@ -1,0 +1,125 @@
+def main():
+    import turtle
+
+
+    turtle.shape('turtle')
+    a=2
+    b=2
+    for i in range(1,int(360/b)):
+        turtle.forward(a*b)
+        turtle.left(b)
+
+    turtle.done
+
+if __name__ =='__main__':
+    main()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
